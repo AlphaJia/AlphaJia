@@ -27,8 +27,9 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=AlphaJia&theme=chalk&margin-w=15" alt="AlphaJia" />
 	</a> 
 </p>
--------------------
+-------------------  
 ## ✏️: Programming Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
 
 
