@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
-<a href="http://alpha-jia.com//"><img align="right" alt="AlphaJia's github stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=AlphaJia&show_icons=true&theme=radical&hide=commits,prs)"></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlphaJia&theme=calm&show_icons=true&count_private=true)
  
  
 - 🔭 目前在创业公司做算法（计算机视觉，深度学习，机器学习）
