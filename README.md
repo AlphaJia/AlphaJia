@@ -17,8 +17,6 @@
 [![keras_unet_plus_plus](https://github-readme-stats.vercel.app/api/pin/?username=AlphaJia&repo=keras_unet_plus_plus&theme=radical)](https://github.com/AlphaJia/keras_unet_plus_plus)
 
 -------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
--------------------
 ## :trophy: Github Awards
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlphaJia&label=Profile%20views&color=0e75b6&style=flat" alt="AlphaJia" /> </p>
@@ -29,6 +27,11 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=AlphaJia&theme=chalk&margin-w=15" alt="AlphaJia" />
 	</a> 
 </p>
+-------------------
+## ✏️: Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
+
+
  
 
 
