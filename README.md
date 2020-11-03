@@ -19,6 +19,16 @@
 -------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
 -------------------
+## :trophy: Github Awards
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlphaJia&label=Profile%20views&color=0e75b6&style=flat" alt="AlphaJia" /> </p>
+<p align="left"> 
+</p>
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+	<img src="https://github-profile-trophy.vercel.app/?username=AlphaJia&theme=chalk&margin-w=15" alt="AlphaJia" />
+	</a> 
+</p>
+ 
 
 
