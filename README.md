@@ -13,12 +13,12 @@
 - 喜欢在 bilibili找新东西来学
 
 -------------------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
--------------------
-
 [![pytorch-faster-rcnn](https://github-readme-stats.vercel.app/api/pin/?username=AlphaJia&repo=pytorch-faster-rcnn&theme=radical)](https://github.com/AlphaJia/pytorch-faster-rcnn)
 [![keras_unet_plus_plus](https://github-readme-stats.vercel.app/api/pin/?username=AlphaJia&repo=keras_unet_plus_plus&theme=radical)](https://github.com/AlphaJia/keras_unet_plus_plus)
 
 -------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaJia&theme=cobalt&langs_count=10&layout=compact) 
+-------------------
+
+
 
