@@ -27,6 +27,7 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=AlphaJia&theme=chalk&margin-w=15" alt="AlphaJia" />
 	</a> 
 </p>
+
 -------------------  
 ## ✏️: Programming Languages
 
